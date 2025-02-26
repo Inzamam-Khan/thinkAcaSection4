@@ -20,8 +20,8 @@ This project implements a RESTful API built using **Node.js** and **Express** th
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Inzamam-Khan/thinkAcaSection4.gitl>
+
 ```
 
 
