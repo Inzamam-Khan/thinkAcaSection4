@@ -41,6 +41,7 @@ git clone https://github.com/Inzamam-Khan/thinkAcaSection4.gitl>
 ## Success Response-Code: `200 OK`
 
 ## Content:`json`
+``bash 
 {
     "success": true,
     "orders": [
@@ -60,7 +61,7 @@ git clone https://github.com/Inzamam-Khan/thinkAcaSection4.gitl>
         }
     ]
 }
-
+```
 ## Fixed Code
 ```bash
 app.get("/orders", async (req, res) => {
